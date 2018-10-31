@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/jasper2/tag/getting-started/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/jasper2/" rel="alternate" type="text/html" />
-  <updated>2018-10-31T21:16:07+00:00</updated>
+  <updated>2018-10-31T22:22:44+00:00</updated>
   <id>http://localhost:4000/jasper2/tag/getting-started/feed.xml</id>
 
   
@@ -44,12 +44,12 @@
 
   
     <entry>
-      <title type="html">Welcome to Ghost</title>
-      <link href="http://localhost:4000/jasper2/welcome" rel="alternate" type="text/html" title="Welcome to Ghost" />
-      <published>2017-07-27T11:00:00+01:00</published>
-      <updated>2017-07-27T11:00:00+01:00</updated>
+      <title type="html">Welcome to Red Dead Revolver</title>
+      <link href="http://localhost:4000/jasper2/welcome" rel="alternate" type="text/html" title="Welcome to Red Dead Revolver" />
+      <published>2018-10-31T10:00:00+00:00</published>
+      <updated>2018-10-31T10:00:00+00:00</updated>
       <id>http://localhost:4000/jasper2/welcome</id>
-      <content type="html" xml:base="http://localhost:4000/jasper2/welcome">&lt;p&gt;Hey! Welcome to Ghost, it’s great to have you :)&lt;/p&gt;
+      <content type="html" xml:base="http://localhost:4000/jasper2/welcome">&lt;p&gt;Hey! Welcome to You Could Miss It, Let’s stay present MF.&lt;/p&gt;
 
 &lt;p&gt;We know that first impressions are important, so we’ve populated your new site with some initial &lt;strong&gt;Getting Started&lt;/strong&gt; posts that will help you get familiar with everything in no time. This is the first one!&lt;/p&gt;
 
@@ -73,7 +73,7 @@
       
 
       <author>
-          <name>Ghost</name>
+          <name>Kieran McFarlane</name>
         
         
       </author>
@@ -85,7 +85,7 @@
       
 
       
-        <summary type="html">Hey! Welcome to Ghost, it’s great to have you :)</summary>
+        <summary type="html">Hey! Welcome to You Could Miss It, Let’s stay present MF.</summary>
       
 
       
